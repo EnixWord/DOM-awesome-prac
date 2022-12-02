@@ -1,3 +1,13 @@
+<<<<<<< HEAD
 h1{
     background-color: red;
+=======
+body{background-color: #e3ff00;
+
+}
+h1{
+    color: red;
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+>>>>>>> 17130f59489a98814d13175c692bbfc81c637600
 }
