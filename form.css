@@ -1,13 +1,11 @@
-<<<<<<< HEAD
-h1{
-    background-color: red;
-=======
-body{background-color: #e3ff00;
 
+
+.key {
+    color: blue;
+    font-weight: bold;
+    margin-right: 10px;
 }
-h1{
-    color: red;
-    font-style: normal;
-    font-family: 'Times New Roman', Times, serif;
->>>>>>> 17130f59489a98814d13175c692bbfc81c637600
+
+.col-5 input {
+    margin-bottom: 5px;
 }
